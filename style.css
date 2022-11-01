@@ -157,14 +157,14 @@ section {
 
 .main-title h2 .bg-text {
   position: absolute;
-  top: 25%;
+  top: 10%;
   left: 50%;
   color: var(--color-grey-5);
   transition: all 0.4s ease-in-out;
   z-index: -1;
   transform: translate(-50%, -50%);
   font-weight: 800;
-  font-size: 90px;
+  font-size: 75px;
   word-spacing: 3px;
 }
 
