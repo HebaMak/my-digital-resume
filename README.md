@@ -18,4 +18,22 @@
 
 ##### The dark mode images
 
-![alt text](https://res.cloudinary.com/hapiii/image/upload/v1667316083/my%20digital%20resume/bkrk8twhuczyfdqhyvr5.png"Logo Title Text 1")
+[![Header](https://res.cloudinary.com/hapiii/image/upload/v1667316083/my%20digital%20resume/bkrk8twhuczyfdqhyvr5.png)](https://some-url.dev/)
+
+[![Header](https://res.cloudinary.com/hapiii/image/upload/v1667316082/my%20digital%20resume/esf2pmbzg6d6id1ujkox.png)](https://some-url.dev/)
+
+[![Header](https://res.cloudinary.com/hapiii/image/upload/v1667316082/my%20digital%20resume/lxeyzaagcv6wnwngflru.png)](https://some-url.dev/)
+
+[![Header](https://res.cloudinary.com/hapiii/image/upload/v1667316082/my%20digital%20resume/pte3u20bjfu36pfbgiq6.png)](https://some-url.dev/)
+
+
+
+##### The light mode images
+
+[![Header](https://res.cloudinary.com/hapiii/image/upload/v1667316083/my%20digital%20resume/eckwctf9ljetc0izt9qs.png)](https://some-url.dev/)
+
+[![Header](https://res.cloudinary.com/hapiii/image/upload/v1667316082/my%20digital%20resume/z7kaaia5ezyq8k3bo45i.png)](https://some-url.dev/)
+
+[![Header](https://res.cloudinary.com/hapiii/image/upload/v1667316082/my%20digital%20resume/vyyikjazxsxtewbzgxik.png)](https://some-url.dev/)
+
+[![Header](https://res.cloudinary.com/hapiii/image/upload/v1667316082/my%20digital%20resume/pzytsve0uu6yob0oaelc.png)](https://some-url.dev/)
