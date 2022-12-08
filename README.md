@@ -1,4 +1,6 @@
 ## This is my Digital resume
+
+- Th resume demo link: https://hebamak.github.io/my-digital-resume/
 - I use HTML, CSS, and JS only in coding.
 
 - Responsive site, fit different screen sizes.
