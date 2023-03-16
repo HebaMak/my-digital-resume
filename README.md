@@ -1,4 +1,4 @@
-## This is my Digital resume
+# This is my Digital resume
 - I use HTML, CSS, and JS only in coding.
 
 - Responsive site, fit different screen sizes.
