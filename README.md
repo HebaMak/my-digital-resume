@@ -1,13 +1,7 @@
-<<<<<<< HEAD
-# This is my Digital resume
-||||||| 1d73aaa
-## This is my Digital resume
-=======
 ## This is my Digital resume
 
 - Th resume demo link: https://hebamak.github.io/my-digital-resume/
 
->>>>>>> be7bc7ab55e5da1256d865adee707d7a59b68a64
 - I use HTML, CSS, and JS only in coding.
 
 - Responsive site, fit different screen sizes.
@@ -29,9 +23,9 @@
 
 [![Header](https://res.cloudinary.com/hapiii/image/upload/v1667401810/my%20digital%20resume/xywwasatqdfaazibpi7u.png)](https://some-url.dev/)
 
-[![Header](https://res.cloudinary.com/hapiii/image/upload/v1667316082/my%20digital%20resume/esf2pmbzg6d6id1ujkox.png)](https://some-url.dev/)
+[![Header](https://res.cloudinary.com/hapiii/image/upload/v1678985334/my%20digital%20resume/zt2wotwk5cdulbir4fh4.png)](https://some-url.dev/)
 
-[![Header](https://res.cloudinary.com/hapiii/image/upload/v1667316082/my%20digital%20resume/lxeyzaagcv6wnwngflru.png)](https://some-url.dev/)
+[![Header](https://res.cloudinary.com/hapiii/image/upload/v1678984381/my%20digital%20resume/p3dnl96atjfctrs0auxs.png)](https://some-url.dev/)
 
 [![Header](https://res.cloudinary.com/hapiii/image/upload/v1667316082/my%20digital%20resume/pte3u20bjfu36pfbgiq6.png)](https://some-url.dev/)
 
@@ -41,8 +35,8 @@
 
 [![Header](https://res.cloudinary.com/hapiii/image/upload/v1667401810/my%20digital%20resume/l5eanfidachvrc6g8lud.png)](https://some-url.dev/)
 
-[![Header](https://res.cloudinary.com/hapiii/image/upload/v1667316082/my%20digital%20resume/z7kaaia5ezyq8k3bo45i.png)](https://some-url.dev/)
+[![Header](https://res.cloudinary.com/hapiii/image/upload/v1678985336/my%20digital%20resume/okcrkiafcupz7dkm7ufa.png)](https://some-url.dev/)
 
-[![Header](https://res.cloudinary.com/hapiii/image/upload/v1667316082/my%20digital%20resume/vyyikjazxsxtewbzgxik.png)](https://some-url.dev/)
+[![Header](https://res.cloudinary.com/hapiii/image/upload/v1678984379/my%20digital%20resume/uuycl9rgqg5mw8ui7jj4.png)](https://some-url.dev/)
 
 [![Header](https://res.cloudinary.com/hapiii/image/upload/v1667316082/my%20digital%20resume/pzytsve0uu6yob0oaelc.png)](https://some-url.dev/)
