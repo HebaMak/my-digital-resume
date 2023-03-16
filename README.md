@@ -1,13 +1,7 @@
-<<<<<<< HEAD
-# This is my Digital resume
-||||||| 1d73aaa
-## This is my Digital resume
-=======
 ## This is my Digital resume
 
 - Th resume demo link: https://hebamak.github.io/my-digital-resume/
 
->>>>>>> be7bc7ab55e5da1256d865adee707d7a59b68a64
 - I use HTML, CSS, and JS only in coding.
 
 - Responsive site, fit different screen sizes.
