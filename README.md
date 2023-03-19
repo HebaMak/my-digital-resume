@@ -3,7 +3,11 @@
 
 - Th resume demo link: https://hebamak.github.io/my-digital-resume/
 
-- I use HTML, CSS, and JS only in coding.
+- I use HTML5, CSS3, and JS only in coding.
+
+ ![alt text](https://img.shields.io/badge/Node.JavaScript--F7DF1E?style=for-the-badge&logo=JavaScript)
+ ![alt text](https://img.shields.io/badge/Css3--1572B6?style=for-the-badge&logo=css3)
+ ![alt text](https://img.shields.io/badge/Html5--E34F26?style=for-the-badge&logo=Html5)
 
 - Responsive site, fit different screen sizes.
 
