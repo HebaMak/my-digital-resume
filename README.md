@@ -12,6 +12,7 @@
 
 - Responsive site, fit different screen sizes.
 
+
 - I add two themes dark and light.
 
 - The parts of the resume show up when click the nav buttons on the right side.
